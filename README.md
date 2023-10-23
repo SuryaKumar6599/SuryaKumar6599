@@ -18,7 +18,3 @@ Check out my coding solutions on [HackerRank](https://www.hackerrank.com/profile
 - Tableau
 
 ---
-
-Feel free to explore my GitHub repositories for more projects and contributions!
-
-
