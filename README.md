@@ -10,12 +10,12 @@ Check out my coding solutions on [HackerRank](https://www.hackerrank.com/profile
 
 ## Areas of Interest
 
-- Data Science
-- Python Programming
-- SQL Databases
-- Machine Learning
-- Data Visualization
-- Tableau
+- **Data Science**
+- **Python Programming**
+- **SQL Databases**
+- **Machine Learning**
+- **Data Visualization**
+- **Tableau**
 
 ---
 
